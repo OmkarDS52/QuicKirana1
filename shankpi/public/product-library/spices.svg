@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#fff1ed"/>
+  <path d="M113 150c34-58 67-58 101 0" fill="#ff6b35"/>
+  <path d="M126 96c34-26 64-24 91 8" fill="none" stroke="#2d6a4f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="160" cy="136" r="15" fill="#e55a28"/>
+  <text x="160" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2a1f14">Spices</text>
+</svg>
